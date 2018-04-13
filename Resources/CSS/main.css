@@ -1,3 +1,52 @@
 * {
   font-family: helvetica, sans-serif;
+  text-align: center;
+}
+
+#header {
+  background-image: url(../images/building.png);
+}
+
+#header h1 {
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+
+.nav {
+  font-size: 18px;
+  color: white;
+}
+
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+h4 {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+p {
+  font-size: 14px;
+}
+
+h3 {
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+  background-image: url(../images/building.png);
+}
+
+footer {
+  background-color: dimgray;
+}
+
+#copyright {
+  font-size: 11px;
+}
+
+#footer .nav {
+  text-align: left;
 }
